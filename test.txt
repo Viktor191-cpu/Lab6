@@ -1,2 +1,3 @@
 Hello world!
 Some new text
+Hello world again!
